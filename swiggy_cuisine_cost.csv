@@ -1,0 +1,259 @@
+City,Cuisines,Average_Cost_for_two
+Bangalore,North Indian,1300
+Bangalore,Asian,2400
+Bangalore,Italian,2000
+Bangalore,European,1300
+Bangalore,Modern Indian,1500
+Bangalore,Bakery,800
+Bangalore,Fast Food,600
+Bangalore,Fast Food,600
+Bangalore,Continental,950
+Bangalore,American,800
+Bangalore,North Indian,1400
+Bangalore,North Indian,400
+Bangalore,Continental,1500
+Bangalore,European,1400
+Bangalore,Asian,1200
+Bangalore,Fast Food,600
+Bangalore,Continental,1200
+Bangalore,Fast Food,1800
+Bangalore,Continental,1400
+Bangalore,Modern Indian,1500
+Chandigarh,North Indian,850
+Chandigarh,American,1600
+Chandigarh,Mexican,1400
+Chandigarh,Japanese,1600
+Chandigarh,Continental,1400
+Chandigarh,North Indian,1200
+Chandigarh,North Indian,1300
+Chandigarh,American,1800
+Chandigarh,North Indian,700
+Chandigarh,North Indian,1000
+Chandigarh,Bakery,650
+Chandigarh,Cafe,650
+Chandigarh,Fast Food,450
+Chandigarh,Mexican,600
+Chandigarh,Mughlai,800
+Chandigarh,Italian,2200
+Chandigarh,Fast Food,500
+Chandigarh,Desserts,600
+Chennai,European,800
+Chennai,North Indian,800
+Chennai,Continental,750
+Chennai,North Indian,850
+Chennai,Mexican,1700
+Chennai,Cafe,450
+Chennai,Italian,350
+Chennai,Cafe,1100
+Chennai,Italian,1500
+Chennai,North Indian,1200
+Chennai,South Indian,1000
+Chennai,Biryani,900
+Chennai,European,1200
+Chennai,North Indian,850
+Chennai,North Indian,850
+Chennai,Continental,1500
+Chennai,North Indian,2000
+Chennai,North Indian,1600
+Chennai,North Indian,1400
+Chennai,North Indian,900
+Goa,Italian,800
+Goa,Fast Food,1100
+Goa,Fast Food,2000
+Goa,Continental,1500
+Goa,Seafood,800
+Goa,North Indian,1100
+Goa,North Indian,1400
+Goa,North Indian,1000
+Goa,Goan,1600
+Goa,Italian,800
+Goa,North Indian,1300
+Goa,Goan,700
+Goa,Goan,800
+Goa,Continental,1100
+Goa,Fast Food,1500
+Goa,Goan,600
+Goa,Seafood,1500
+Goa,Cafe,800
+Goa,Continental,1100
+Goa,Seafood,2000
+Guwahati,Cafe,800
+Guwahati,North Indian,1400
+Guwahati,Cafe,600
+Guwahati,Cafe,500
+Guwahati,Continental,1400
+Guwahati,Chinese,750
+Guwahati,Chinese,1300
+Guwahati,North Indian,1650
+Guwahati,Cafe,500
+Guwahati,Cafe,500
+Guwahati,North Indian,1500
+Guwahati,Chinese,800
+Guwahati,Chinese,300
+Guwahati,Cafe,400
+Guwahati,Continental,500
+Guwahati,Asian,500
+Guwahati,Cafe,850
+Guwahati,Chinese,600
+Guwahati,Continental,1000
+Guwahati,Continental,700
+Guwahati,Continental,700
+Hyderabad,Mughlai,1500
+Hyderabad,European,1500
+Hyderabad,Mexican,1800
+Hyderabad,Seafood,1500
+Hyderabad,Mexican,1800
+Hyderabad,North Indian,700
+Hyderabad,North Indian,1900
+Hyderabad,European,1500
+Hyderabad,Bakery,600
+Hyderabad,Continental,1400
+Hyderabad,North Indian,1200
+Hyderabad,Mediterranean,2000
+Hyderabad,Italian,1200
+Hyderabad,North Indian,1100
+Hyderabad,Cafe,1800
+Hyderabad,Desserts,500
+Hyderabad,North Indian,1100
+Hyderabad,Hyderabadi,1400
+Jaipur,Cafe,750
+Jaipur,North Indian,1650
+Jaipur,Italian,1400
+Jaipur,Cafe,750
+Jaipur,Italian,1300
+Jaipur,Continental,1000
+Jaipur,Rajasthani,1600
+Jaipur,Modern Indian,1500
+Jaipur,Cafe,1000
+Jaipur,Continental,1800
+Jaipur,North Indian,2300
+Jaipur,Chinese,2500
+Jaipur,Italian,2000
+Jaipur,Cafe,650
+Jaipur,Continental,700
+Jaipur,Cafe,800
+Jaipur,North Indian,1500
+Jaipur,North Indian,1000
+Jaipur,Cafe,1200
+Jaipur,Continental,800
+Kolkata,Asian,1400
+Kolkata,Italian,1200
+Kolkata,Continental,1200
+Kolkata,Chinese,1000
+Kolkata,Bengali,1000
+Kolkata,North Indian,1200
+Kolkata,North Indian,1400
+Kolkata,American,1800
+Kolkata,Seafood,800
+Kolkata,Biryani,800
+Kolkata,North Indian,1500
+Kolkata,North Indian,1600
+Kolkata,Continental,1050
+Kolkata,Chinese,900
+Kolkata,Continental,1000
+Kolkata,European,1900
+Kolkata,North Indian,1600
+Kolkata,Continental,1500
+Kolkata,North Indian,1600
+Kolkata,Cafe,1000
+Lucknow,Mughlai,300
+Lucknow,Desserts,200
+Lucknow,Cafe,800
+Lucknow,Cafe,650
+Lucknow,Cafe,450
+Lucknow,Continental,1000
+Lucknow,North Indian,1100
+Lucknow,Cafe,450
+Lucknow,North Indian,1200
+Lucknow,Cafe,400
+Lucknow,European,1000
+Lucknow,Mediterranean,1300
+Lucknow,Italian,1000
+Lucknow,Cafe,1000
+Lucknow,Mughlai,400
+Lucknow,Cafe,400
+Lucknow,North Indian,1100
+Lucknow,North Indian,2000
+Lucknow,North Indian,1600
+Lucknow,North Indian,1000
+Lucknow,Cafe,700
+Mumbai,Fast Food,800
+Mumbai,Asian,1000
+Mumbai,Healthy Food,850
+Mumbai,North Indian,1000
+Mumbai,Fast Food,1500
+Mumbai,Cafe,1000
+Mumbai,Continental,1100
+Mumbai,Cafe,1000
+Mumbai,Bakery,700
+Mumbai,Modern Indian,1500
+Mumbai,North Indian,1500
+Mumbai,Cafe,1000
+Mumbai,Fast Food,800
+Mumbai,American,500
+Mumbai,Italian,1500
+Mumbai,North Indian,1500
+Mumbai,North Indian,1000
+Mumbai,Street Food,1200
+Mumbai,Cafe,1000
+Mumbai,Cafe,1000
+Patna,American,500
+Patna,South Indian,300
+Patna,Chinese,1400
+Patna,North Indian,1500
+Patna,North Indian,1000
+Patna,Continental,600
+Patna,Fast Food,500
+Patna,Fast Food,500
+Patna,Biryani,500
+Patna,North Indian,1600
+Patna,North Indian,800
+Patna,Chinese,450
+Patna,North Indian,1000
+Patna,North Indian,600
+Patna,North Indian,1000
+Patna,North Indian,600
+Patna,North Indian,1200
+Patna,North Indian,700
+Patna,North Indian,500
+Patna,North Indian,700
+Pune,North Indian,1500
+Pune,North Indian,1200
+Pune,Continental,2000
+Pune,European,1000
+Pune,Modern Indian,1500
+Pune,North Indian,1400
+Pune,Fast Food,1000
+Pune,Continental,1800
+Pune,Charcoal Grill,900
+Pune,Cafe,850
+Pune,European,1500
+Pune,Italian,1000
+Pune,Mexican,1800
+Pune,North Indian,1700
+Pune,North Indian,1500
+Pune,Continental,1200
+Pune,Italian,800
+Pune,North Indian,2100
+Pune,Fast Food,1000
+Pune,North Indian,1000
+Surat,Chinese,900
+Surat,Chinese,800
+Surat,South Indian,500
+Surat,North Indian,800
+Surat,Chinese,800
+Surat,South Indian,250
+Surat,Cafe,650
+Surat,Lebanese,650
+Surat,Italian,900
+Surat,Chinese,800
+Surat,Italian,1400
+Surat,Gujarati,550
+Surat,Cafe,500
+Surat,North Indian,1000
+Surat,Fast Food,800
+Surat,Italian,1500
+Surat,Modern Indian,1500
+Surat,Desserts,250
+Surat,Italian,900
+Surat,North Indian,800
